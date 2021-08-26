@@ -1,0 +1,24 @@
+.warning-msg {
+  border: 1px solid red;
+  border-radius: 4px;
+  display: block;
+  color: red;
+  padding: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.submit-btn {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.dropdown__wrapper {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  display: block;
+}
+
+.wrapper {
+  margin-top: 20px;
+}
